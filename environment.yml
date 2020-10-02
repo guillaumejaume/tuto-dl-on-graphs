@@ -1,0 +1,9 @@
+name: graphml-env
+dependencies:
+  - python>=3.6
+  - pip
+  - pip:
+    - jupyter>=1.0.0
+    - torch>=1.4.0
+    - dgl>=0.5.1
+    - tqdm>=4.35.0
