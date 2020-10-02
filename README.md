@@ -5,10 +5,10 @@
 
 | Time        | Title                                
 |-------------|--------------------------------------|
-| 16.15 - 16.45 | Introduction to ML on graphs and GNNs |
-| 16.45 - 17.00 | Hands-on part 1: Predicting Molecular Properties |
-| 17.00 - 17.30 | Hands-on part 2: Link Prediction on a Knowledge Graph |
-| 17.30 - 17.45 | Discussion, references and closing remarks |
+| 30mn | Introduction to ML on graphs and GNNs |
+| 15mn | Hands-on part 1: Predicting Molecular Properties |
+| 30mn | Hands-on part 2: Link Prediction on a Knowledge Graph |
+| 15mn | Discussion, references and closing remarks |
 
 ## Requirements
 
@@ -54,5 +54,4 @@ The most up-to-date (as of Sept 2020) paper that is properly benchmarking the mo
 ## Organisers and tutors
 
 - [Guillaume Jaume](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-GJA), IBM Research Zürich
-- [An-Phi Nguyen](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-UYE), IBM Research Zürich
 
