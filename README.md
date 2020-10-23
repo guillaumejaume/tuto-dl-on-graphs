@@ -50,6 +50,7 @@ The first GNN designed to operate on Knowledge Graphs that was able to beat the 
 
 The most up-to-date (as of Sept 2020) paper that is properly benchmarking the most popular Graph Neural Networks architectures on a variety of datasets. 
 
+Participants that would like more graph-related references can refer to the [graph-neural-networks-roadmap](https://github.com/guillaumejaume/graph-neural-networks-roadmap). A more up-to-date list can be found (here)[graph-based-deep-learning-literature].
 
 ## Organisers and tutors
 
